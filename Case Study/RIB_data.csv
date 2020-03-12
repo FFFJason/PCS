@@ -1,0 +1,90 @@
+Child,relation,Parent
+Neck of first rib,part-of,First rib
+Body of first rib,part-of,First rib
+Tubercle of first rib,part-of,First rib
+Bony part of first rib,part-of,First rib
+Articular cartilage of head of first rib,part-of,First rib
+Articular cartilage of tubercle of first rib,part-of,First rib
+Periosteum of first rib,part-of,First rib
+Vasculature of first rib,part-of,First rib
+Endosteum of first rib,part-of,First rib
+Head of first rib,part-of,First rib
+Tubercle of first rib,part-of,Body of first rib
+Fossa for first costal cartilage,part-of,Body of first rib
+Articular facet of tubercle of first rib,part-of,Tubercle of first rib
+Non-articular part of tubercle of first rib,part-of,Tubercle of first rib
+Bone of first rib,part-of,Bony part of first rib
+Vasculature of bony part of first rib,part-of,Bony part of first rib
+Medullary cavity of first rib,part-of,Bony part of first rib
+Head of right first rib,part-of,Right first rib
+Neck of right first rib,part-of,Right first rib
+Body of right first rib,part-of,Right first rib
+Tubercle of right first rib,part-of,Right first rib
+Bony part of right first rib,part-of,Right first rib
+Articular cartilage of head of right first rib,part-of,Right first rib
+Articular cartilage of tubercle of right first rib,part-of,Right first rib
+Vasculature of right first rib,part-of,Right first rib
+Cavity of right first rib,part-of,Right first rib
+Head of left first rib,part-of,Left first rib
+Neck of left first rib,part-of,Left first rib
+Body of left first rib,part-of,Left first rib
+Tubercle of left first rib,part-of,Left first rib
+Bony part of left first rib,part-of,Left first rib
+Articular cartilage of head of left first rib,part-of,Left first rib
+Articular cartilage of tubercle of left first rib,part-of,Left first rib
+Vasculature of left first rib,part-of,Left first rib
+Cavity of left first rib,part-of,Left first rib
+Articular facet of head of left first rib,part-of,Head of left first rib
+Tubercle of left first rib,part-of,Body of left first rib
+Fossa for left first costal cartilage,part-of,Body of left first rib
+Articular facet of tubercle of left first rib,part-of,Tubercle of left first rib
+Non-articular part of tubercle of left first rib,part-of,Tubercle of left first rib
+Periosteum of left first rib,part-of,Bony part of left first rib
+Bone of left first rib,part-of,Bony part of left first rib
+Vasculature of bony part of left first rib,part-of,Bony part of left first rib
+Medullary cavity of left first rib,part-of,Cavity of left first rib
+Network of trabecular spaces in bone tissue of left first rib,part-of,Cavity of left first rib
+Articular facet of head of right first rib,part-of,Head of right first rib
+Tubercle of right first rib,part-of,Body of right first rib
+Fossa for right first costal cartilage,part-of,Body of right first rib
+Articular facet of tubercle of right first rib,part-of,Tubercle of right first rib
+Non-articular part of tubercle of right first rib,part-of,Tubercle of right first rib
+Periosteum of right first rib,part-of,Bony part of right first rib
+Bone of right first rib,part-of,Bony part of right first rib
+Vasculature of bony part of right first rib,part-of,Bony part of right first rib
+Medullary cavity of right first rib,part-of,Cavity of right first rib
+Network of trabecular spaces in bone tissue of right first rib,part-of,Cavity of right first rib
+Right first rib,is-a,First rib
+Left first rib,is-a,First rib
+Neck of left first rib,is-a,Neck of first rib
+Neck of right first rib,is-a,Neck of first rib
+Body of left first rib,is-a,Body of first rib
+Body of right first rib,is-a,Body of first rib
+Tubercle of left first rib,is-a,Tubercle of first rib
+Tubercle of right first rib,is-a,Tubercle of first rib
+Bony part of right first rib,is-a,Bony part of first rib
+Bony part of left first rib,is-a,Bony part of first rib
+Articular cartilage of head of right first rib,is-a,Articular cartilage of head of first rib
+Articular cartilage of head of left first rib,is-a,Articular cartilage of head of first rib
+Articular cartilage of tubercle of right first rib,is-a,Articular cartilage of tubercle of first rib
+Articular cartilage of tubercle of left first rib,is-a,Articular cartilage of tubercle of first rib
+Periosteum of right first rib,is-a,Periosteum of first rib
+Periosteum of left first rib,is-a,Periosteum of first rib
+Vasculature of right first rib,is-a,Vasculature of first rib
+Vasculature of left first rib,is-a,Vasculature of first rib
+Endosteum of right first rib,is-a,Endosteum of first rib
+Endosteum of left first rib,is-a,Endosteum of first rib
+Head of left first rib,is-a,Head of first rib
+Head of right first rib,is-a,Head of first rib
+Articular facet of tubercle of left first rib,is-a,Articular facet of tubercle of first rib
+Articular facet of tubercle of right first rib,is-a,Articular facet of tubercle of first rib
+Bone of left first rib,is-a,Bone of first rib
+Bone of right first rib,is-a,Bone of first rib
+Fossa for left first costal cartilage,is-a,Fossa for first costal cartilage
+Fossa for right first costal cartilage,is-a,Fossa for first costal cartilage
+Medullary cavity of left first rib,is-a,Medullary cavity of first rib
+Medullary cavity of right first rib,is-a,Medullary cavity of first rib
+Non-articular part of tubercle of left first rib,is-a,Non-articular part of tubercle of first rib
+Non-articular part of tubercle of right first rib,is-a,Non-articular part of tubercle of first rib
+Vasculature of bony part of left first rib,is-a,Vasculature of bony part of first rib
+Vasculature of bony part of right first rib,is-a,Vasculature of bony part of first rib
