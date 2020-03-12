@@ -1,0 +1,196 @@
+Child,Parent,Relation
+regulation of negative chemotaxis,regulation of chemotaxis,is_a
+regulation of positive chemotaxis,regulation of chemotaxis,is_a
+regulation of dendritic cell chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of endothelial cell chemotaxis,regulation of chemotaxis,is_a
+negative regulation of chemotaxis,regulation of chemotaxis,is_a
+positive regulation of chemotaxis,regulation of chemotaxis,is_a
+negative regulation of negative chemotaxis,regulation of negative chemotaxis,is_a
+negative regulation of negative chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of positive chemotaxis,regulation of positive chemotaxis,is_a
+negative regulation of positive chemotaxis,negative regulation of chemotaxis,is_a
+positive regulation of negative chemotaxis,regulation of negative chemotaxis,is_a
+positive regulation of negative chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of positive chemotaxis,regulation of positive chemotaxis,is_a
+positive regulation of positive chemotaxis,positive regulation of chemotaxis,is_a
+negative regulation of astrocyte chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of astrocyte chemotaxis,regulation of astrocyte chemotaxis,is_a
+positive regulation of astrocyte chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of astrocyte chemotaxis,regulation of astrocyte chemotaxis,is_a
+negative regulation of dendritic cell chemotaxis,regulation of dendritic cell chemotaxis,is_a
+negative regulation of dendritic cell chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of endothelial cell chemotaxis,regulation of endothelial cell chemotaxis,is_a
+negative regulation of endothelial cell chemotaxis,negative regulation of chemotaxis,is_a
+positive regulation of dendritic cell chemotaxis,regulation of dendritic cell chemotaxis,is_a
+positive regulation of dendritic cell chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of endothelial cell chemotaxis,regulation of endothelial cell chemotaxis,is_a
+positive regulation of endothelial cell chemotaxis,positive regulation of chemotaxis,is_a
+regulation of anterior/posterior axon guidance,regulation of axon guidance,is_a
+regulation of dorsal/ventral axon guidance,regulation of axon guidance,is_a
+negative regulation of axon guidance,negative regulation of chemotaxis,is_a
+negative regulation of axon guidance,regulation of axon guidance,is_a
+positive regulation of axon guidance,positive regulation of chemotaxis,is_a
+positive regulation of axon guidance,regulation of axon guidance,is_a
+negative regulation of Schwann cell chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of Schwann cell chemotaxis,regulation of Schwann cell chemotaxis,is_a
+positive regulation of Schwann cell chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of Schwann cell chemotaxis,regulation of Schwann cell chemotaxis,is_a
+negative regulation of chemotaxis to arachidonic acid,negative regulation of chemotaxis,is_a
+negative regulation of chemotaxis to arachidonic acid,regulation of chemotaxis to arachidonic acid,is_a
+positive regulation of chemotaxis to arachidonic acid,positive regulation of chemotaxis,is_a
+positive regulation of chemotaxis to arachidonic acid,regulation of chemotaxis to arachidonic acid,is_a
+negative regulation of cell chemotaxis to fibroblast growth factor,negative regulation of chemotaxis,is_a
+negative regulation of cell chemotaxis to fibroblast growth factor,regulation of cell chemotaxis to fibroblast growth factor,is_a
+positive regulation of cell chemotaxis to fibroblast growth factor,positive regulation of chemotaxis,is_a
+positive regulation of cell chemotaxis to fibroblast growth factor,regulation of cell chemotaxis to fibroblast growth factor,is_a
+negative regulation of endothelial cell chemotaxis to vascular endothelial growth factor,negative regulation of chemotaxis,is_a
+negative regulation of endothelial cell chemotaxis to vascular endothelial growth factor,regulation of endothelial cell chemotaxis to vascular endothelial growth factor,is_a
+positive regulation of endothelial cell chemotaxis to vascular endothelial growth factor,positive regulation of chemotaxis,is_a
+positive regulation of endothelial cell chemotaxis to vascular endothelial growth factor,regulation of endothelial cell chemotaxis to vascular endothelial growth factor,is_a
+negative regulation of fibroblast chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of fibroblast chemotaxis,regulation of fibroblast chemotaxis,is_a
+positive regulation of fibroblast chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of fibroblast chemotaxis,regulation of fibroblast chemotaxis,is_a
+negative regulation of leukocyte chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of leukocyte chemotaxis,regulation of leukocyte chemotaxis,is_a
+positive regulation of leukocyte chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of leukocyte chemotaxis,regulation of leukocyte chemotaxis,is_a
+negative regulation of smooth muscle cell chemotaxis,negative regulation of chemotaxis,is_a
+negative regulation of smooth muscle cell chemotaxis,regulation of smooth muscle cell chemotaxis,is_a
+positive regulation of smooth muscle cell chemotaxis,positive regulation of chemotaxis,is_a
+positive regulation of smooth muscle cell chemotaxis,regulation of smooth muscle cell chemotaxis,is_a
+induction of negative chemotaxis,positive regulation of negative chemotaxis,is_a
+induction of positive chemotaxis,positive regulation of positive chemotaxis,is_a
+negative regulation of chemorepellent activity,negative regulation of negative chemotaxis,is_a
+negative regulation of chemorepellent activity,regulation of chemorepellent activity,is_a
+positive regulation of chemorepellent activity,positive regulation of negative chemotaxis,is_a
+positive regulation of chemorepellent activity,regulation of chemorepellent activity,is_a
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor,negative regulation of endothelial cell chemotaxis,is_a
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor,negative regulation of cell chemotaxis to fibroblast growth factor,is_a
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor,regulation of endothelial cell chemotaxis to fibroblast growth factor,is_a
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor,positive regulation of endothelial cell chemotaxis,is_a
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor,positive regulation of cell chemotaxis to fibroblast growth factor,is_a
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor,regulation of endothelial cell chemotaxis to fibroblast growth factor,is_a
+negative regulation of axon extension involved in axon guidance,negative regulation of axon guidance,is_a
+negative regulation of axon extension involved in axon guidance,regulation of axon extension involved in axon guidance,is_a
+positive regulation of axon extension involved in axon guidance,positive regulation of axon guidance,is_a
+positive regulation of axon extension involved in axon guidance,regulation of axon extension involved in axon guidance,is_a
+negative regulation of anterior/posterior axon guidance,regulation of anterior/posterior axon guidance,is_a
+negative regulation of anterior/posterior axon guidance,negative regulation of axon guidance,is_a
+negative regulation of dorsal/ventral axon guidance,regulation of dorsal/ventral axon guidance,is_a
+negative regulation of dorsal/ventral axon guidance,negative regulation of axon guidance,is_a
+positive regulation of anterior/posterior axon guidance,regulation of anterior/posterior axon guidance,is_a
+positive regulation of anterior/posterior axon guidance,positive regulation of axon guidance,is_a
+positive regulation of dorsal/ventral axon guidance,regulation of dorsal/ventral axon guidance,is_a
+positive regulation of dorsal/ventral axon guidance,positive regulation of axon guidance,is_a
+negative regulation of sensory neuron axon guidance,negative regulation of axon guidance,is_a
+negative regulation of sensory neuron axon guidance,regulation of sensory neuron axon guidance,is_a
+positive regulation of sensory neuron axon guidance,positive regulation of axon guidance,is_a
+positive regulation of sensory neuron axon guidance,regulation of sensory neuron axon guidance,is_a
+negative regulation of motor neuron axon guidance,negative regulation of axon guidance,is_a
+negative regulation of motor neuron axon guidance,regulation of motor neuron axon guidance,is_a
+positive regulation of motor neuron axon guidance,positive regulation of axon guidance,is_a
+positive regulation of motor neuron axon guidance,regulation of motor neuron axon guidance,is_a
+negative regulation of retinal ganglion cell axon guidance,negative regulation of axon guidance,is_a
+negative regulation of retinal ganglion cell axon guidance,regulation of retinal ganglion cell axon guidance,is_a
+positive regulation of retinal ganglion cell axon guidance,positive regulation of axon guidance,is_a
+positive regulation of retinal ganglion cell axon guidance,regulation of retinal ganglion cell axon guidance,is_a
+negative regulation of macrophage chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of macrophage chemotaxis,regulation of macrophage chemotaxis,is_a
+positive regulation of macrophage chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of macrophage chemotaxis,regulation of macrophage chemotaxis,is_a
+positive regulation of macrophage chemotaxis,regulation of granulocyte chemotaxis,is_a
+negative regulation of granulocyte chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of granulocyte chemotaxis,regulation of granulocyte chemotaxis,is_a
+positive regulation of granulocyte chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of granulocyte chemotaxis,regulation of granulocyte chemotaxis,is_a
+negative regulation of lymphocyte chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of lymphocyte chemotaxis,regulation of lymphocyte chemotaxis,is_a
+positive regulation of lymphocyte chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of lymphocyte chemotaxis,regulation of lymphocyte chemotaxis,is_a
+negative regulation of monocyte chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of monocyte chemotaxis,regulation of monocyte chemotaxis,is_a
+positive regulation of monocyte chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of monocyte chemotaxis,regulation of monocyte chemotaxis,is_a
+negative regulation of mast cell chemotaxis,negative regulation of leukocyte chemotaxis,is_a
+negative regulation of mast cell chemotaxis,regulation of mast cell chemotaxis,is_a
+positive regulation of mast cell chemotaxis,positive regulation of leukocyte chemotaxis,is_a
+positive regulation of mast cell chemotaxis,regulation of mast cell chemotaxis,is_a
+negative regulation of positive chemotaxis to cAMP,negative regulation of positive chemotaxis,is_a
+negative regulation of positive chemotaxis to cAMP,regulation of positive chemotaxis to cAMP,is_a
+positive regulation of positive chemotaxis to cAMP,positive regulation of positive chemotaxis,is_a
+positive regulation of positive chemotaxis to cAMP,regulation of positive chemotaxis to cAMP,is_a
+negative regulation of eosinophil chemotaxis,negative regulation of granulocyte chemotaxis,is_a
+negative regulation of eosinophil chemotaxis,regulation of eosinophil chemotaxis,is_a
+positive regulation of eosinophil chemotaxis,positive regulation of granulocyte chemotaxis,is_a
+positive regulation of eosinophil chemotaxis,regulation of eosinophil chemotaxis,is_a
+negative regulation of neutrophil chemotaxis,negative regulation of granulocyte chemotaxis,is_a
+negative regulation of neutrophil chemotaxis,regulation of neutrophil chemotaxis,is_a
+positive regulation of neutrophil chemotaxis,positive regulation of granulocyte chemotaxis,is_a
+positive regulation of neutrophil chemotaxis,regulation of neutrophil chemotaxis,is_a
+negative regulation of natural killer cell chemotaxis,negative regulation of lymphocyte chemotaxis,is_a
+negative regulation of natural killer cell chemotaxis,regulation of natural killer cell chemotaxis,is_a
+positive regulation of natural killer cell chemotaxis,positive regulation of lymphocyte chemotaxis,is_a
+positive regulation of natural killer cell chemotaxis,regulation of natural killer cell chemotaxis,is_a
+negative regulation of B cell chemotaxis,negative regulation of lymphocyte chemotaxis,is_a
+negative regulation of B cell chemotaxis,regulation of B cell chemotaxis,is_a
+positive regulation of B cell chemotaxis,positive regulation of lymphocyte chemotaxis,is_a
+positive regulation of B cell chemotaxis,regulation of B cell chemotaxis,is_a
+negative regulation of myeloid dendritic cell chemotaxis,negative regulation of dendritic cell chemotaxis,is_a
+negative regulation of myeloid dendritic cell chemotaxis,regulation of myeloid dendritic cell chemotaxis,is_a
+positive regulation of myeloid dendritic cell chemotaxis,positive regulation of dendritic cell chemotaxis,is_a
+positive regulation of myeloid dendritic cell chemotaxis,regulation of myeloid dendritic cell chemotaxis,is_a
+negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,negative regulation of positive chemotaxis to cAMP,is_a
+negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,positive regulation of positive chemotaxis to cAMP,is_a
+positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+negative regulation of positive chemotaxis to cAMP by DIF-1,negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+negative regulation of positive chemotaxis to cAMP by DIF-1,regulation of positive chemotaxis to cAMP by DIF-1,is_a
+positive regulation of positive chemotaxis to cAMP by DIF-1,positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+positive regulation of positive chemotaxis to cAMP by DIF-1,regulation of positive chemotaxis to cAMP by DIF-1,is_a
+regulation of astrocyte chemotaxis,regulation of chemotaxis,is_a
+regulation of muscle cell chemotaxis toward tendon cell,regulation of chemotaxis,is_a
+regulation of chemokine activity,regulation of chemotaxis,is_a
+regulation of axon guidance,regulation of chemotaxis,is_a
+regulation of Schwann cell chemotaxis,regulation of chemotaxis,is_a
+regulation of chemotaxis to arachidonic acid,regulation of chemotaxis,is_a
+regulation of cell chemotaxis to fibroblast growth factor,regulation of chemotaxis,is_a
+regulation of endothelial cell chemotaxis to vascular endothelial growth factor,regulation of chemotaxis,is_a
+regulation of fibroblast chemotaxis,regulation of chemotaxis,is_a
+regulation of leukocyte chemotaxis,regulation of chemotaxis,is_a
+regulation of smooth muscle cell chemotaxis,regulation of chemotaxis,is_a
+regulation of chemorepellent activity,regulation of negative chemotaxis,is_a
+regulation of endothelial cell chemotaxis to fibroblast growth factor,regulation of endothelial cell chemotaxis,is_a
+regulation of endothelial cell chemotaxis to fibroblast growth factor,regulation of cell chemotaxis to fibroblast growth factor,is_a
+negative regulation of muscle cell chemotaxis toward tendon cell,negative regulation of chemotaxis,is_a
+negative regulation of muscle cell chemotaxis toward tendon cell,regulation of muscle cell chemotaxis toward tendon cell,is_a
+negative regulation of chemokine activity,negative regulation of chemotaxis,is_a
+negative regulation of chemokine activity,regulation of chemokine activity,is_a
+regulation of axon extension involved in axon guidance,regulation of axon guidance,is_a
+regulation of sensory neuron axon guidance,regulation of axon guidance,is_a
+regulation of motor neuron axon guidance,regulation of axon guidance,is_a
+regulation of photoreceptor cell axon guidance,regulation of axon guidance,is_a
+regulation of retinal ganglion cell axon guidance,regulation of axon guidance,is_a
+regulation of macrophage chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of granulocyte chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of lymphocyte chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of monocyte chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of mast cell chemotaxis,regulation of leukocyte chemotaxis,is_a
+regulation of positive chemotaxis to cAMP,regulation of positive chemotaxis,is_a
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway,positive regulation of endothelial cell chemotaxis,is_a
+regulation of eosinophil chemotaxis,regulation of granulocyte chemotaxis,is_a
+regulation of neutrophil chemotaxis,regulation of granulocyte chemotaxis,is_a
+regulation of T cell chemotaxis,regulation of lymphocyte chemotaxis,is_a
+regulation of natural killer cell chemotaxis,regulation of lymphocyte chemotaxis,is_a
+regulation of B cell chemotaxis,regulation of lymphocyte chemotaxis,is_a
+regulation of myeloid dendritic cell chemotaxis,regulation of dendritic cell chemotaxis,is_a
+regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,regulation of positive chemotaxis to cAMP,is_a
+positive regulation of T cell chemotaxis,positive regulation of lymphocyte chemotaxis,is_a
+positive regulation of T cell chemotaxis,regulation of T cell chemotaxis,is_a
+regulation of positive chemotaxis to cAMP by DIF-1,regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+regulation of positive chemotaxis to cAMP by DIF-2,regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+positive regulation of chemotaxis to cAMP by DIF-2,positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+positive regulation of chemotaxis to cAMP by DIF-2,regulation of positive chemotaxis to cAMP by DIF-2,is_a
+negative regulation of positive chemotaxis to cAMP by DIF-2,negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone,is_a
+negative regulation of positive chemotaxis to cAMP by DIF-2,regulation of positive chemotaxis to cAMP by DIF-2,is_a
+semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance,regulation of photoreceptor cell axon guidance,part_of
