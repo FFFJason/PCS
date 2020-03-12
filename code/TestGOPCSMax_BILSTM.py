@@ -5,7 +5,7 @@ import numpy as np
 import functools
 import random
 
-pcs_pairs = np.load('GOPCSMax.npy',allow_pickle=True)
+pcs_pairs = np.load(test_data,allow_pickle=True)#.npy file
 
 #获得pcs_pairs的全部切片，放入concepts中，保证concepts改变的情况下pcs_pairs不变
 concepts = pcs_pairs[:]
@@ -409,7 +409,7 @@ def create_embeding(text):
     return vectors
 
 from keras.models import load_model
-model = load_model('GO_bert_lstm_pcs_max5.h5')
+model = load_model(model_path)
 
 is_a = []
 part_of = []
@@ -1000,15 +1000,8 @@ for i in range(len(threads_set)):
             elif predict[0] == 1. and [a,b] not in no_rela:
                 noass_norela.append([a,b])              
 
-def write_result(data,name):
-	with open(name,'w') as file:
-		for i in data:
-			file.write(i[0]+'    '+i[1]+'\n')
 
-write_result(is_a,r'zuixin/GOPCSMaxNoRandomNDR_isa_lstm.txt')
-write_result(part_of,r'zuixin/GOPCSMaxNoRandomNDR_partof_lstm.txt')
-write_result(noass_is_a,r'zuixin/GOPCSMaxNoRandomNDR_noassisa_lstm.txt')
-write_result(noass_part_of,r'zuixin/GOPCSMaxNoRandomNDR_noasspartof_lstm.txt')
+
 
 
 
