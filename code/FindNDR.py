@@ -5,18 +5,19 @@ import numpy as np
 import functools
 import random
 
-IsABio = np.load(r'GOIsABiologicaProcessPairs.npy')
-PartOfBio = np.load(r'GOPartOfBioPairs.npy')
 
-Bio = []
-Bio.extend(IsABio)
-Bio.extend(PartOfBio)
+def load_file(path,A,B):
+    dataFrame = pd.read_csv(path)
+    text_A = dataFrame[A]
+    text_B = dataFrame[B]
+    return text_A,text_B
+child,parent = load_file(path,A,B)
 
 child = []
 parent = []
-for i in range(len(Bio)):
-    child.append(Bio[i][0])
-    parent.append(Bio[i][1])
+for i in range(len(data)):
+    child.append(data[i][0])
+    parent.append(data[i][1])
 
 #找出所有的根节点
 def FindAllRoot(child_array,parent_array):#形参分别为孩子节点列表，父母节点列表
@@ -88,3 +89,30 @@ for i in range(len(all_TreeNodes)):
     if len(all_TreeNodes[i]) > 100 and len(all_TreeNodes[i]) < 120 :
         print(i,len(all_TreeNodes[i]))
         allTreeNodes100.append(all_TreeNodes[i])
+hasrelation_ndr = []
+for i in range(len(allTreeNodes100)):
+    print(i)
+    for x in range(len(allTreeNodes100[i])):
+        for y in range(len(allTreeNodes100[i])):
+            if x == y :
+                continue
+            a = allTreeNodes100[i][x]
+            b = allTreeNodes100[i][y]
+            print(a,b)
+            if [a,b] not in celluar_copy:
+                hasrelation_ndr.append([a,b])
+celluar_all = []
+for i in range(len(celluar_copy)):
+    for j in range(len(celluar_copy[i])):
+        if celluar_copy[i][j] not in celluar_all:
+            celluar_all.append(celluar_copy[i][j])
+
+norelation_ndr = []
+count = 0
+while count <= 300000:
+    print(count)
+    a = np.random.randint(0,len(celluar_all))
+    b = np.random.randint(0,len(celluar_all))
+    if a != b and [celluar_all[a],celluar_all[b]] not in celluar_copy and [celluar_all[a],celluar_all[b]] not in norelation_ndr:
+        norelation_ndr.append([celluar_all[a],celluar_all[b]])
+        count += 1
