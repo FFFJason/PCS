@@ -1,0 +1,2 @@
+you can get bert model on this site:
+https://github.com/google-research/bert/
