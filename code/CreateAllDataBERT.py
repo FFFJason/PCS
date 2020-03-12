@@ -7,13 +7,13 @@ def load_file(path,A,B):
     text_B = dataFrame[B]
     return text_A,text_B
 
-child,parent = load_file('FMA1AllData.csv','Child','Parent')
+child,parent = load_file(path,A,B)
 
 test_a = np.array(child)
 test_b = np.array(parent)
 test_all = np.append(test_a,test_b)
 test_all = np.unique(test_all)
-np.save('FMA1AllDataUnique.npy',test_all)
+np.save(name,test_all)
 
 split_data_a = []
 
@@ -38,7 +38,7 @@ for j in split_data_a:
         data_a_vectors.append(bc.encode(j))
     i += 1
 
-np.save('FMA1AllDataUniqueBert_pre.npy',data_a_vectors)
+np.save(name,data_a_vectors)
 
 
 
